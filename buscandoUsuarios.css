@@ -31,9 +31,9 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: turquoise;
     color: tomato;
-    width: 48%;
+    width: 5%;
     height: 0; /* A mágica está aqui */
-    padding-bottom: 48%; /* ... e está aqui */
+    padding-bottom: 5%; /* ... e está aqui */
     margin: 1%;
     float: left;
     position: relative;
