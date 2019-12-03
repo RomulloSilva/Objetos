@@ -1,0 +1,45 @@
+.row{
+    margin: 5px;
+}
+.form-control{
+    
+    width:450px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content:center ;
+    color: tomato;
+    
+}
+#formulario{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#corpo{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: turquoise;
+    color: tomato;
+}
+#titulo{
+    text-align: center;
+    border:solid 5px tomato;
+    border-radius: 10px;
+    background-color: aquamarine;
+}
+#meuUser{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: turquoise;
+    color: tomato;
+    width: 48%;
+    height: 0; /* A mágica está aqui */
+    padding-bottom: 48%; /* ... e está aqui */
+    margin: 1%;
+    float: left;
+    position: relative;
+}
+.btn-outline-danger{
+    background-color: turquoise;
+    color: tomato;
+    margin: 15px;
+}
